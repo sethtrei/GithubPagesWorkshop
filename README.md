@@ -71,4 +71,15 @@ Once you have made changes in the files you need to put them on GitHub which wil
   # Let's Explain What you Just Did
   You just used git to push to a repository. Git is a way of organzing files, and GitHub adds a user interface to git.
 
- 
+# So what is the URL?
+The URL to your website is the same name as your repository so it should be [username].github.io
+
+# Done!
+
+Congrats! Now you can share the URL to anyone!
+
+
+> ![](resources/celebrate.gif)
+
+# Feedback
+I'll put stuff here if HackEDU accepts the workshop
