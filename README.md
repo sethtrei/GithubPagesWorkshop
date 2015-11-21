@@ -8,6 +8,8 @@ To start you need to have completed the <a href="https://github.com/hackedu/hack
 GitHub Pages is a way of using a GitHub repository to make a website.
 By the end of the workshop you will have a link to get you to your website.
 
+# What is a Repository?
+A respository is a location where code and other files can be stored.
 # Create a Repository
 Make a repository following this format:
 (yourusername).github.io
@@ -20,10 +22,50 @@ Go into your Cloud9 workspace and choose an area to clone your repository. You w
 <br>
 ![](/resources/openterm.gif)
 <br>
-<b>1.</b> Get the link for cloning 
+<b>1. Get the link for cloning. It is on the right side of your repository. If you click the little icon, the link is now on your clipboard.</b>
+![](http://goo.gl/BCQIQP)
 <br>
-<b>2.</b> In the terminal type: git clone [link to clone that you just got]
+<b>2.In the terminal type: git clone [then the link you just copied]</b> 
 <br>
 ![](/resources/clone.gif)
 <br>
 # Congrats! You can now edit and save in your repository!
+You should start creating the necessary files for a website. (index.html, style.css, etc)
+<hr>
+
+# Part 2
+In this part of the workshop, you will learn how to sync your Cloud9 data into your GitHub Repository.
+
+# Commiting and Publishing to GitHub
+Once you have made changes in the files you need to put them on GitHub which will put it on your website.
+ <b> 1. Go into the terminal and type: </b>
+ ```
+ cd [repository name]
+ ```
+ 
+ This puts you into your repository
+ <br>
+ 
+ <b> 2.Add your changes to the commit list by doing.. </b>
+ ```
+ git add .
+ ```
+ <br>
+ <b> 3. Commit your changes with the following format </b>
+  ```
+  git commit -m "Here you type the name of the commit and what it does. Keep the quotations."
+  ```
+  This will get your changes ready to push to GitHub
+  <br>
+  
+  <b>4. Push your changes</b>
+  ```
+  git push
+  ```
+  It will ask for your username and password. <br>
+  Note: When you type your password it wont show up in the terminal.
+  
+  # Let's Explain What you Just Did
+  You just used git to push to a repository. Git is a way of organzing files, and GitHub adds a user interface to git.
+
+ 
