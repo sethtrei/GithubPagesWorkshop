@@ -15,20 +15,23 @@ Make a repository following this format:
 (yourusername).github.io
 <br>
 So if your username is supersam, your repository would be supersam.github.io
-![](/resources/createrepo.gif)
+> ![](/resources/createrepo.gif)
 
 # Clone into Cloud9
 Go into your Cloud9 workspace and choose an area to clone your repository. You want to find the terminal that starts with "bash". If it isnt there open a new terminal. (Instructions directly below)
 <br>
-![](/resources/openterm.gif)
+> ![](/resources/openterm.gif)
+
 <br>
 <b>1. Get the link for cloning. It is on the right side of your repository. If you click the little icon, the link is now on your clipboard.</b>
-![](http://goo.gl/BCQIQP)
+> ![](http://goo.gl/BCQIQP)
+
 <br>
 <b>2.In the terminal type: git clone [then the link you just copied]</b> 
 <br>
-![](/resources/clone.gif)
+> ![](/resources/clone.gif)
 <br>
+
 # Congrats! You can now edit and save in your repository!
 You should start creating the necessary files for a website. (index.html, style.css, etc)
 <hr>
