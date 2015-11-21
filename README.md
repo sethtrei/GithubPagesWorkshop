@@ -14,3 +14,16 @@ Make a repository following this format:
 <br>
 So if your username is supersam, your repository would be supersam.github.io
 ![](/resources/createrepo.gif)
+
+# Clone into Cloud9
+Go into your Cloud9 workspace and choose an area to clone your repository. You want to find the terminal that starts with "bash". If it isnt there open a new terminal. (Instructions directly below)
+<br>
+![](/resources/openterm.gif)
+<br>
+<b>1.</b> Get the link for cloning 
+<br>
+<b>2.</b> In the terminal type: git clone [link to clone that you just got]
+<br>
+![](/resources/clone.gif)
+<br>
+# Congrats! You can now edit and save in your repository!
