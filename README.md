@@ -68,7 +68,7 @@ Once you have made changes in the files you need to put them on GitHub which wil
   It will ask for your username and password. <br>
   Note: When you type your password it wont show up in the terminal.
   
-  # Let's Explain What you Just Did
+# Let's Explain What you Just Did
   You just used git to push to a repository. Git is a way of organzing files, and GitHub adds a user interface to git.
 
 # So what is the URL?
