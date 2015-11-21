@@ -13,4 +13,4 @@ Make a repository following this format:
 (yourusername).github.io
 <br>
 So if your username is supersam, your repository would be supersam.github.io
-![](createrepo.gif)
+![](/resources/createrepo.gif)
