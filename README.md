@@ -2,7 +2,7 @@
 
 Welcome! In this workshop you will set up a GitHub Pages Website!
 
-To start you need to have completed the <a href="https://github.com/hackedu/hackedu/tree/master/workshops/contrib/cloud9">Cloud 9 Workshop</a> by <a href="https://www.github.com/Bogidan">@Bogidan</a>
+To start you need to have completed the <a href="https://github.com/hackedu/hackedu/tree/master/workshops/contrib/cloud9">Cloud 9 Workshop.</a>
 
 # What is GitHub Pages?
 GitHub Pages is a way of using a GitHub repository to make a website.
