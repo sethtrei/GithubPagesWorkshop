@@ -56,7 +56,7 @@ Once you have made changes in the files you need to put them on GitHub which wil
  <br>
  <b> 3. Commit your changes with the following format </b>
   ```
-  git commit -m "Here you type the name of the commit and what it does. Keep the quotations."
+  git commit -m "Here you type what the commit does. Keep the quotations."
   ```
   This will get your changes ready to push to GitHub
   <br>
@@ -82,4 +82,4 @@ Congrats! Now you can share the URL to anyone!
 > ![](resources/celebrate.gif)
 
 # Feedback
-I'll put stuff here if HackEDU accepts the workshop
+Please fill out [this survey.](http://goo.gl/forms/KSUwTTB9K7)
