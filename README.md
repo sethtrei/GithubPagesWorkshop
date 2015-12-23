@@ -83,7 +83,7 @@ There are specific ways the files need to be saved. You <b> <u> NEED </u> </b> t
 
 
 **You should now start copying your code from JSBin into Cloud9**
-# YOUR CSS MAY NOT WORK. IF IT DOESNT CLICK [HERE](tiny.cc/ghpagesfix).
+# YOUR CSS MAY NOT WORK. IF IT DOESNT CLICK [HERE](https://tiny.cc/ghpagesfix).
 -------------------------------------------------------------------------------
 
 # Part 2
