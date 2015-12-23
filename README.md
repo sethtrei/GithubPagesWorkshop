@@ -68,9 +68,20 @@ You should start creating the necessary files for a website. (`index.html`,
 `style.css`, etc)
 
 **Creating necessary website files**
-Go to `File > New From Template > file you need`. Then just save it and name it.
+Go to `File > New From Template > file you need`. 
 
 > ![](http://goo.gl/7x9tvr)
+
+**Saving the necessary website files**
+There are specific ways the files need to be saved. You <b> <u> NEED </u> </b> to follow this format:
+
+| File Type                        | What You Save it as                        |
+|----------------------------------|--------------------------------------------|
+| HTML File                        | index.html                                 |
+| CSS Files                        | style.css                                  |
+| JavaScript Files                 | app.js                                     |
+
+
 
 -------------------------------------------------------------------------------
 
