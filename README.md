@@ -82,7 +82,8 @@ There are specific ways the files need to be saved. You <b> <u> NEED </u> </b> t
 | JavaScript Files                 | app.js                                     |
 
 
-
+**You should now start copying your code from JSBin into Cloud9**
+# YOUR CSS MAY NOT WORK. IF IT DOESNT CLICK [HERE](tiny.cc/ghpagesfix).
 -------------------------------------------------------------------------------
 
 # Part 2
